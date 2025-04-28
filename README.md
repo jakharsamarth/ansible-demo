@@ -26,5 +26,3 @@ ssh-keygen -t rsa -b 4096
 cp ~/.ssh/id_rsa .
 cp ~/.ssh/id_rsa.pub .
 ```
-
-![Ansible Demo Screenshot](ansible-demo/Screenshot%20from%202025-04-28%2020-09-00.png)
