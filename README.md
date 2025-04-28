@@ -25,6 +25,6 @@ ssh-keygen -t rsa -b 4096
 # Copy keys to current directory for Docker build
 cp ~/.ssh/id_rsa .
 cp ~/.ssh/id_rsa.pub .
-
+```
 
 ![Ansible Demo Screenshot] (ansible-demo/Screenshot from 2025-04-28 20-09-00.png)
