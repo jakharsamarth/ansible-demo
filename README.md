@@ -27,4 +27,4 @@ cp ~/.ssh/id_rsa .
 cp ~/.ssh/id_rsa.pub .
 ```
 
-![Ansible Demo Screenshot](Screenshot from 2025-04-28 20-09-00.png)
+![Ansible Demo Screenshot](ansible-demo/Screenshot%20from%202025-04-28%2020-09-00.png)
